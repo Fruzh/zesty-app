@@ -1,5 +1,7 @@
 # 🍽️ Zesty App - Food Recipe React Native App
 
+![Zesty App Preview](https://raw.githubusercontent.com/Fruzh/zesty-app/refs/heads/master/assets/image/zesty.png)
+
 A beautiful and simple **food recipe app** built using **React Native** and **Expo**. This project follows the tutorial by [Code With Nomi](https://youtu.be/cdnneQjsoT0?si=VSDXf3xO1JU_5OrF) and showcases animations with **Reanimated**.
 
 ---
