@@ -29,7 +29,7 @@ npm install -g expo-cli
 1. **Clone the repository**
 
 ```bash
-git clone git@github.com:Fruzh/zesty-app.git
+git clone https://github.com/Fruzh/zesty-app.git
 cd zesty-app
 ```
 
